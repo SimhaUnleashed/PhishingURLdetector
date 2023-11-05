@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseURL = "http://localhost:5000/"
+const baseURL = "https://phishing-detector-4786.onrender.com/"
 
 const app = axios.create({
     baseURL,
