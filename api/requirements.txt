@@ -6,4 +6,6 @@ Gunicorn
 scikit-learn 
 scipy 
 matplotlib
-
+pandas
+numpy
+nltk
